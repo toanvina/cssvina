@@ -49,4 +49,7 @@ button.vtr-pill {
 button.vtr-btn.vtr-open-form {
     margin-bottom: 0px;
 }
-
+button.vtr-page {
+    margin-right: 0px;
+    margin-bottom: 6px;
+}
