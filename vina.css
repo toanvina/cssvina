@@ -53,3 +53,7 @@ button.vtr-page {
     margin-right: 0px;
     margin-bottom: 6px;
 }
+.vtr-thumb img {
+    border-radius: 12px !important;
+}
+.vtr-mid-title {margin-bottom: 12px!important;}
