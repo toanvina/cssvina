@@ -26,4 +26,5 @@
   color: #0b1a30;
 }
 .bvtg-avatar img {border-radius: 50%!important;}
-.bvtg-more-btn {color: #1b5ed8;}
+.bvtg-more-btn {color: #1b5ed8!important;}
+.bvtg-container {border: 1px solid #c4c4c4;}
