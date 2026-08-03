@@ -3,7 +3,11 @@
 }
 /*Code tiêu đề cho bingodoanhnghiep*/
 .bingodoanhnghiep .bhs-content-divider {
-    display: none;
+  display: none;
 }
 .bingodoanhnghiep .bhs-header {
-margin-bottom: 6px !important; }
+  margin-bottom: 6px !important; }
+
+.bhs-wrapper .bhs-title {
+  font-size: 17px !important;
+  }
