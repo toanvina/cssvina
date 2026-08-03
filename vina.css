@@ -36,7 +36,7 @@
 .dgkh-box img {
     border-radius: 8px;
 }
-.vtr-review .vtr-img {
+.vtr-review .vtr-img, .vtr-img img {
     border-radius: 12px;
 }
 .vtr-review {
@@ -58,3 +58,7 @@ button.vtr-page {
 }
 .vtr-mid-title {margin-bottom: 12px!important;}
 .vtr-header {gap: 10px!important}
+.vtr-reply-item {
+    margin-top: -8px !important;
+    margin-bottom: 13px;
+}
