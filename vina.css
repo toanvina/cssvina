@@ -15,3 +15,13 @@
     padding: 15px 10px 0px 5px !important;
 }
 .bingodoanhnghiep .bhs-wrapper .bhs-subtitle {margin: 3px 0 0 0 !important;}
+
+/*Khung tác giả*/
+.bvtg-post-title {
+    color: #111!important;;
+}
+.article-inner h3:before {display: none!important;}
+.bvtg-title2 {
+  font-size: 20px;
+  color: #0b1a30;
+}
