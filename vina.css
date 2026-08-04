@@ -57,8 +57,10 @@ button.vtr-page {
     border-radius: 12px !important;
 }
 .vtr-mid-title {margin-bottom: 12px!important;}
-.vtr-header {gap: 10px!important}
+.vtr-header {gap: 10px!important;}
 .vtr-reply-item {
     margin-top: -8px !important;
     margin-bottom: 13px;
 }
+.bvtg-desc {font-size: 14.5px!important;}
+.bvtg-container {font-faminy: Helvetica, Arial, sans-serif!important;}
