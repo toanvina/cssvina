@@ -31,7 +31,8 @@
     border: 1px solid #c4c4c4;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
-
+.bvtg-desc {font-size: 14.5px!important;}
+.bvtg-container {font-faminy: Helvetica, Arial, sans-serif!important;}
 /*Code review*/
 .dgkh-box img {
     border-radius: 8px!important;
@@ -62,5 +63,3 @@ button.vtr-page {
     margin-top: -8px !important;
     margin-bottom: 13px;
 }
-.bvtg-desc {font-size: 14.5px!important;}
-.bvtg-container {font-faminy: Helvetica, Arial, sans-serif!important;}
