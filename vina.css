@@ -45,7 +45,8 @@
   padding: 16px 18px 0px 18px!important;
 }
 button.vtr-pill {
-    margin-right: -3px;
+  margin-right: -3px;
+  margin-bottom: 1px;
 }
 button.vtr-btn.vtr-open-form {
     margin-bottom: 9px;
@@ -65,4 +66,7 @@ button.vtr-page {
 }
 button, .button {
     touch-action: pan-x pan-y;
+}
+.vtr-pill {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
