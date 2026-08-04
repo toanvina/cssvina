@@ -63,3 +63,6 @@ button.vtr-page {
     margin-top: -8px !important;
     margin-bottom: 13px;
 }
+button, .button {
+    touch-action: pan-x pan-y;
+}
