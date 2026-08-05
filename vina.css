@@ -106,7 +106,7 @@ button, .button {
     overflow: hidden;
 }
 .trangchu-tab .box-image{
-        width: 18%;
+        width: 18%!important;
         border-radius: 50%;
 }
 }
