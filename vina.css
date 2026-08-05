@@ -95,7 +95,7 @@ button, .button {
     border-radius: 10px;
 }
 }
-@media screen and (max-width: 549px)
+@media screen and (max-width: 549px) {
 .trangchu-tab .image-cover {
     padding-top: 100% !important;
 }
