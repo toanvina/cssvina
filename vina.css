@@ -83,3 +83,15 @@ button, .button {
 .bvtg-title2 {
     font-size: 22px !important;
 }
+/*trangchu*/
+.trangchu-post h5.post-title.is-large {
+    font-size: 14.5px !important;
+    line-height: 22px;
+}
+
+@media screen and (min-width: 550px) {
+.trangchu-post .image-cover {
+    padding-top: 100% !important;
+    border-radius: 10px;
+}
+}
