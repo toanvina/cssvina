@@ -109,4 +109,7 @@ button, .button {
         width: 18%!important;
         border-radius: 50%;
 }
+  .trangchu-tab .box-text.text-center {
+    padding: 0px 5px 10px 5px !important;
+}
 }
