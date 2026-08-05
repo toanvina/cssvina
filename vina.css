@@ -127,3 +127,7 @@ button, .button {
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
+.trangchu-tab h5.post-title.is-large {
+    font-size: 14.5px !important;
+    color: #141414 !important;
+}
