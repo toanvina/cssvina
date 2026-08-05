@@ -116,8 +116,14 @@ button, .button {
         width: 15%!important;
         border-radius: 50%;
 }
-  .trangchu-tab .box-text.text-center {
+.trangchu-tab .box-text.text-center {
     padding: 0px 5px 10px 5px !important;
+}
+.trangchu-tab .col.post-item {
+    padding: 0px 0px 0px 6px;
+}
+.trangchu-tab .box-text.text-center {
+    width: 81% !important;
 }
 }
 /*Giới hạn dòng của title nếu không thì chỉnh trong box-text text-center*/
