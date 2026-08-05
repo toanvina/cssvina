@@ -95,7 +95,7 @@ button, .button {
     border-radius: 10px;
 }
   .trangchu-tab .col-inner {
-    border: 1px solid black;
+    border: 1px solid #a7a7a7;
     border-radius: 25px;
 }
 .trangchu-tab img.attachment-medium.size-medium.wp-post-image {
@@ -103,8 +103,8 @@ button, .button {
     padding: 1px;
 }
 .trangchu-tab .box-text.text-center {
-	padding: 10px;
-    height: 85px;
+	padding: 10px!important;
+    height: 85px!important;
 }
 }
 @media screen and (max-width: 549px) {
