@@ -94,17 +94,24 @@ button, .button {
     padding-top: 100% !important;
     border-radius: 10px;
 }
+  .trangchu-tab .col-inner {
+    border: 1px solid black;
+    border-radius: 25px;
+}
+.trangchu-tab img.attachment-medium.size-medium.wp-post-image {
+    border-radius: 25px 25px 0px 0px;
+    padding: 1px;
+}
+.trangchu-tab .box-text.text-center {
+	padding: 10px;
+    height: 85px;
+}
 }
 @media screen and (max-width: 549px) {
 .trangchu-tab .image-cover {
     padding-top: 100% !important;
 }
-.trangchu-tab h5.post-title.is-large {
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-}
+
 .trangchu-tab .box-image{
         width: 15%!important;
         border-radius: 50%;
@@ -112,4 +119,11 @@ button, .button {
   .trangchu-tab .box-text.text-center {
     padding: 0px 5px 10px 5px !important;
 }
+}
+/*Giới hạn dòng của title nếu không thì chỉnh trong box-text text-center*/
+.trangchu-tab h5.post-title.is-large {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
