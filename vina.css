@@ -95,3 +95,14 @@ button, .button {
     border-radius: 10px;
 }
 }
+@media screen and (max-width: 549px)
+.image-cover {
+    padding-top: 100% !important;
+}
+.trangchu-post h5.post-title.is-large {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+}
