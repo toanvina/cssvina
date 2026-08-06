@@ -145,3 +145,7 @@ button, .button {
     border-radius: 25px;
 	margin-bottom: 12px;
 }
+.thucte .img-inner.dark {
+    border: 1px solid #797979;
+    border-radius: 27px 0px 27px 0px;
+}
