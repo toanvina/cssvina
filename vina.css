@@ -149,3 +149,16 @@ button, .button {
     border: 1px solid #a6a6a6;
 	border-radius: 25px 0px 25px 0px;
 }
+/*Tieude trang chu*/
+.bingotrangchu .bhs-wrapper {
+	padding: 0px!important;
+	margin: 0px 0px 25px 0px !important;
+	border: none !important;
+	box-shadow: none !important;
+	}
+.bingotrangchu.bingomax-giang-vien-wrapper .swiper {
+	padding: 0px!important;
+}
+.bingotrangchu.bhs-content-divider, .swiper-pagination {
+	display: none!important
+}
