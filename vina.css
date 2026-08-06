@@ -162,3 +162,6 @@ button, .button {
 .bingotrangchu .bhs-content-divider, .bingotrangchu .swiper-pagination {
 	display: none!important
 }
+.home #main {
+    background-color: #ffffff !important;
+}
