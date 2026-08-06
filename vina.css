@@ -147,4 +147,5 @@ button, .button {
 }
 .thucte .img-inner {
     border: 1px solid #797979;
+	border-radius: 25px 0px 25px 0px;
 }
