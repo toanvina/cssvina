@@ -156,9 +156,9 @@ button, .button {
 	border: none !important;
 	box-shadow: none !important;
 	}
-.bingotrangchu.bingomax-giang-vien-wrapper .swiper {
+.bingotrangchu .swiper {
 	padding: 0px!important;
 }
-.bingotrangchu.bhs-content-divider, .swiper-pagination {
+.bingotrangchu .bhs-content-divider, .bingotrangchu .swiper-pagination {
 	display: none!important
 }
