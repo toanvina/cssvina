@@ -203,3 +203,4 @@ background: #006cca !important;
 .bmktz-item-node:hover > .bmktz-item-link-wrap {
 	background: #e0f1ff!important;
 }
+.bmktz-item-node {border-bottom: 1px solid #c1c1c1!important;}
