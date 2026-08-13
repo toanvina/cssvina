@@ -182,3 +182,7 @@ background: #006cca !important;
 .bmktz-btn {
     background: #e8641b;
 }
+@media (min-width: 769px) {
+    .bmktz-mega-panel {
+	width: 699px!important;
+	}}
