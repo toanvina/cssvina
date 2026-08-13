@@ -168,3 +168,17 @@ button, .button {
 .bingomax-desc {
 	font-size: 13.5px!important;
 	}
+/*Menu Khóa học*/
+.bmktz-header {
+    font-size: 14px!important;
+    font-weight: 600!important;
+background: #006cca !important;
+    padding: 12px 18px!important;
+	}
+.bmktz-item-desc {
+    font-size: 13px!important;
+    margin-top: 3px!important;
+}
+.bmktz-btn {
+    background: #e8641b;
+}
