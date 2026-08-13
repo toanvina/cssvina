@@ -186,7 +186,14 @@ background: #006cca !important;
 @media (min-width: 769px) {
     .bmktz-mega-panel {
 	width: 699px!important;
-	}}
+	}
+    .bmktz-sub-title {
+        font-size: 14px!important;
+    }
+	.bmktz-sub-desc {
+        font-size: 12px!important;
+    }
+}
 .bmktz-wrapper {
 	font-family: Helvetica, Arial, sans-serif !important;
 }
