@@ -8,3 +8,6 @@
     margin: 0px 0px 10px 15px!important;
     border-radius: 10px!important;
 }
+.bao-chi .star-rating:before,.bao-chi .star-rating span:before,.bao-chi .color-secondary {
+    color: #ff8112!important;
+}
