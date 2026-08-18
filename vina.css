@@ -210,3 +210,7 @@ background: #006cca !important;
 .slide-trangchu{
 	margin-bottom: -15px;
 }
+/*Bo góc Video Youtube*/
+.video.video-fit.mb {
+    border-radius: 25px;
+}
