@@ -214,3 +214,8 @@ background: #006cca !important;
 .video.video-fit.mb {
     border-radius: 25px;
 }
+@media screen and (max-width: 549px) {
+.video.video-fit.mb {
+    padding-top: 69% !important;
+	}
+}
