@@ -6,3 +6,9 @@
     padding: 20px 10px 10px 10px;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
+.vlist h3 {
+    border-bottom: 1px solid #dadada;
+    padding-bottom: 10px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+    margin-top: -4px;
+}
