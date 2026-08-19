@@ -12,3 +12,9 @@
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
     margin-top: -4px;
 }
+.boxvn-4 {
+    border: 1px solid #006599;
+    border-radius: 6px;
+    padding: 10px 10px 1px 10px;
+    margin: 15px 0;
+}
