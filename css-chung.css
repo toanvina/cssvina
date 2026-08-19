@@ -25,3 +25,10 @@ h3.vlist {
     background: #fffed7;
     margin: 15px 0;
 }
+.boxvn-2 {
+    border: 2px solid #b9ddff;
+    border-radius: 6px;
+    padding: 15px 10px 1px 10px;
+    background: #e7f3ff;
+    margin: 15px 0;
+}
